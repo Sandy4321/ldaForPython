@@ -1,4 +1,4 @@
-# ldaForPython
+# LDAGibbsForPython
 Latent Dirichlet Allocation for Python, using a Gibbs sampling
 
 You can apply to your own data structure by re-writing all the __getXXXX functions
